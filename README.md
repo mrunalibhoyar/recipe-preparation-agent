@@ -5,8 +5,6 @@ Recipe Preparation Agent uses IBM Cloud Lite and IBM Granity to generate persona
 
 [View My Project PPT by Clicking](./Recipe_Preparation_Agent.pptx) 
 
-# Recipe_Agent (.ipynb) file :
-[View here](./Recipe_Agent.ipynb)
 
 # Recipe Preparation Agent
 
